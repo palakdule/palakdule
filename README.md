@@ -5,8 +5,7 @@
 
 <br>
 
-<!-- 🧊 3D Rotating Cube -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160"/>
+
 
 <!-- 💎 Neon Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%"/>
