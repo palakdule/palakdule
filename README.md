@@ -1,9 +1,3 @@
-<div align="center">
-
-<!-- 🔵 Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=36&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Palak+Dule+🚀;Aspiring+Backend+Developer;Logic+%7C+Performance+%7C+Clean+Code" />
-
-<br>
 
 <!-- 🧊 3D Rotating Cube -->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160"/>
