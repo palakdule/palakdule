@@ -1,45 +1,51 @@
-<div align="center">
+## 🧠 Developer Mindset
 
-<!-- Premium Minimal Name Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=32&duration=2500&pause=900&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Palak+Dule+✨;Backend+Developer+%7C+Tech+Enthusiast;Clean+Code+.+Minimal+Design+.+Deep+Logic" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</p>
 
-<br>
+### ✨ My Core Engineering Beliefs
 
-<!-- Subtle 3D Floating Icons -->
-<img src="https://raw.githubusercontent.com/roldanjr/assets/main/3d-floating/3d-fluent-globe.gif" width="120"/>
-<img src="https://raw.githubusercontent.com/roldanjr/assets/main/3d-floating/3d-casual-laptop.gif" width="120"/>
-<img src="https://raw.githubusercontent.com/roldanjr/assets/main/3d-floating/3d-fluent-lightbulb.gif" width="120"/>
+🔹 **Logic First. Code Second.**  
+Great code comes from clear thinking, not fast typing.
 
----
+🔹 **Build Systems, Not Scripts.**  
+Every function, module, and API is part of a bigger machine.
 
-## 🧑‍💻 About Me  
-**Backend Developer (in progress)**  
-Focused on elegant code, system logic & efficient backend workflows.  
-Currently exploring **APIs, Databases & Server-Side Architecture**.
+🔹 **Clean > Clever.**  
+Readable code outlives “smart but confusing” code every time.
 
----
+🔹 **Minimalism Wins.**  
+Remove what’s unnecessary — simplicity scales.
 
-## ⚙️ Tech Stack  
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=light"/>  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light"/>  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light"/>  
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=light"/>  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light"/>
+🔹 **Break → Understand → Rebuild.**  
+If you don’t know *why* it works, you don’t really know it.
+
+🔹 **Consistency Beats Motivation.**  
+A little progress daily compounds into mastery.
 
 ---
 
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=PalakDule&show_icons=true&theme=transparent" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakDule&theme=transparent" width="48%"/>
+### 🚀 How I Approach Backend Engineering
+
+🔸 Think in flows: request → logic → data → response  
+🔸 Design APIs like products — predictable and intuitive  
+🔸 Use databases as tools, not storage boxes  
+🔸 Logging > guessing  
+🔸 Test early, test small, test often  
+🔸 Architecture should evolve with the project, not restrict it  
 
 ---
 
-## 🌐 Connect with Me  
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+### 💡 What Drives Me
 
-<br><br>
+- Curiosity about *how things work under the hood*  
+- Desire for structure, logic & clarity  
+- Making systems efficient, stable & elegant  
+- Constantly improving the craft — 1% better every day  
 
-### ✨ *Designed with a minimal & premium aesthetic*
+<p align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="300"/>
+</p>
 
-</div>
+---
