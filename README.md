@@ -134,6 +134,5 @@
 
 ### *"Clean Code • Scalable Systems • Continuous Learning"*
 
-⭐ If you like my projects, consider giving them a star!
 
 </div>
