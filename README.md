@@ -1,98 +1,139 @@
 <div align="center">
 
-<!-- 🔵 Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=36&duration=2300&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Palak+Dule+🚀;Aspiring+Backend+Developer;Logic+%7C+Performance+%7C+Clean+Code" />
+# 👋 Hi, I'm Palak Dule
 
-<br>
+### 💻 Backend Developer | Python • Java • C • SQL
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Applications;Python+%7C+Java+%7C+C+%7C+SQL;Spring+Boot+%7C+REST+APIs+%7C+Backend;Always+Learning+New+Technologies+🚀" />
 
+<br><br>
 
-<!-- 💎 Neon Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=palakdule&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-⚡ Aspiring Backend Developer  
-🧠 Passionate about Java, APIs & System Design  
-💻 Love building scalable backend systems  
-📈 Constantly improving & learning  
-🔥 Focused on logic, performance & clean code  
-
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=light"/>
-
-### 🧠 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light"/>
-
-### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light"/>
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=light"/>
-
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light"/>
-
----
-
-<!-- 💎 Thin Neon Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:0077FF"/>
-
-## 🧠 Developer Mindset
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</p>
-
-🔹 **Logic First. Code Second.**  
-🔹 **Build scalable systems, not scripts.**  
-🔹 **Clean > Clever.**  
-🔹 **Minimalism always wins.**  
-🔹 **Break → Understand → Rebuild.**  
-🔹 **Consistency beats motivation.**  
-
----
-
-## ⚡ GitHub Stats (Dark Neon)
+## 🚀 About Me
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PalakDule&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakDule&theme=tokyonight&hide_border=true" width="49%"/>
+
+💻 Passionate about Backend Development
+
+🐍 Skilled in Python, Java, and SQL
+
+📚 Currently learning Spring Boot, REST APIs, and Backend Development
+
+🚀 Building Backend Projects and APIs
+
+🌱 Exploring Databases, API Development, and Cloud Technologies
+
+🎯 Goal: Become a Professional Backend Developer
+
 </div>
 
 ---
 
-## 📊 GitHub Activity Graph  
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PalakDule&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+
+<br><br>
+
+### Backend & Databases
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+
 </div>
 
 ---
 
-## 🌐 Let’s Connect  
+## 📈 GitHub Analytics
+
 <div align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palakdule&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palakdule&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=palakdule&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+🔹 Backend Development
+
+🔹 Spring Boot
+
+🔹 REST APIs
+
+🔹 Database Design
+
+🔹 SQL Optimization
+
+🔹 Problem Solving
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/palak-dule-43a455342">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:palakdule30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<!-- 🌌 Hologram Footer -->
-<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"/>
+## 🚀 Building Powerful Backend Solutions
 
-<!-- 💎 Neon Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0077FF&height=120&section=footer"/>
+### *"Clean Code • Scalable Systems • Continuous Learning"*
 
-### ✨ *Futuristic • Clean • Animated • Premium*
+⭐ If you like my projects, consider giving them a star!
 
 </div>
